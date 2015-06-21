@@ -123,6 +123,31 @@
     font-family:"黑体";
     font-size: 30px;
 }
+.upload_btn {
+   position: absolute;
+    right: 5%;
+    top: 10%;
+    width: 15%;
+    height: 60px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    box-shadow: #666 0px 0px 10px;
+    color: #eee;
+    float: left;text-align: center;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font: bold 12px/25px Arial, sans-serif;
+}
+.upload_btn:hover{
+    background-color:#BC1F1A;
+}
+.blue {
+    color: #fff;
+    background: #54CBDE;
+    font-family:"微软雅黑";
+    font-size: 24px;
+}
 
 .check{
     position: absolute;
